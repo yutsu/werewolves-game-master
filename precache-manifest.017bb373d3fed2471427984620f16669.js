@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5578fbd9856d54008dd99cc767557ab5",
+    "revision": "172ce82315532ec7926bcdadbca90671",
     "url": "/werewolves-game-master/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/werewolves-game-master/static/js/2.000d1c15.chunk.js"
   },
   {
-    "revision": "85e574952115607c2faf",
-    "url": "/werewolves-game-master/static/js/main.17f1dc45.chunk.js"
+    "revision": "acd281a30fbbb20197ab",
+    "url": "/werewolves-game-master/static/js/main.6fbf8bcb.chunk.js"
   },
   {
     "revision": "5577dd032a0eec1c4170",
