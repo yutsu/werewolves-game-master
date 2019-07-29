@@ -1,3 +1,5 @@
+import React from 'react';
+
 const JapaneseNames = {
   'villager': '村人',
   'werewolf': '人狼'
