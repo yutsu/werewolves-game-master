@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/werewolves-game-master/static/js/main.91d9b90f.chunk.js",
-    "main.js.map": "/werewolves-game-master/static/js/main.91d9b90f.chunk.js.map",
+    "main.js": "/werewolves-game-master/static/js/main.17f1dc45.chunk.js",
+    "main.js.map": "/werewolves-game-master/static/js/main.17f1dc45.chunk.js.map",
     "runtime~main.js": "/werewolves-game-master/static/js/runtime~main.68d5dddd.js",
     "runtime~main.js.map": "/werewolves-game-master/static/js/runtime~main.68d5dddd.js.map",
     "static/js/2.000d1c15.chunk.js": "/werewolves-game-master/static/js/2.000d1c15.chunk.js",
     "static/js/2.000d1c15.chunk.js.map": "/werewolves-game-master/static/js/2.000d1c15.chunk.js.map",
     "index.html": "/werewolves-game-master/index.html",
-    "precache-manifest.96f6e1d1f5799614a513b8d781b252f1.js": "/werewolves-game-master/precache-manifest.96f6e1d1f5799614a513b8d781b252f1.js",
+    "precache-manifest.ac175d83cf94acd22e9cffca48fbdf7f.js": "/werewolves-game-master/precache-manifest.ac175d83cf94acd22e9cffca48fbdf7f.js",
     "service-worker.js": "/werewolves-game-master/service-worker.js"
   }
 }

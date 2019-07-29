@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/werewolves-game-master/static/js/2.000d1c15.chunk.js"
   },
   {
-    "revision": "2412c9de255f72a2224e",
-    "url": "/werewolves-game-master/static/js/main.91d9b90f.chunk.js"
+    "revision": "85e574952115607c2faf",
+    "url": "/werewolves-game-master/static/js/main.17f1dc45.chunk.js"
   },
   {
     "revision": "5577dd032a0eec1c4170",
