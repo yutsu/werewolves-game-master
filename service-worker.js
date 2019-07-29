@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/werewolves-game-master/precache-manifest.0949ebd645aaf4dc1cd08184fe77b9a6.js"
+  "/werewolves-game-master/precache-manifest.95ce09b26aca01fa22dd431e5d803b59.js"
 );
 
 self.addEventListener('message', (event) => {
