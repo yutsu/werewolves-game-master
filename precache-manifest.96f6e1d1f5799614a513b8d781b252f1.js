@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "172ce82315532ec7926bcdadbca90671",
+    "revision": "5578fbd9856d54008dd99cc767557ab5",
     "url": "/werewolves-game-master/index.html"
   },
   {
